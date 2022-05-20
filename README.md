@@ -7,9 +7,9 @@ pip install -r requirements.txt
 ```
 ## Tools
 1. Language : Python 3.6.9
-2. Dependencies : sys,os,yaml,json,os
+2. Dependencies : sys,os,yaml,json,os,jsn
 3. Platform : Ubuntu in WSL
-4. FileFormat Extensions : json,yaml,yml 
+4. FileFormat Extensions : json,yaml,yml,jsn 
 
 ## Usage
  On the terminal :
